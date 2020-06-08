@@ -1,0 +1,13 @@
+[package]
+name = "describe_err"
+version = "1.0"
+authors = ["k.bagrov <k.bagrov@g.nsu.ru>"]
+edition = "2018"
+description = "Easily describe similar errors in your code"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Cerberuser/describe_err"
+categories = ["development-tools::build-utils"]
+
+[dependencies]
+thiserror = "1.0"
